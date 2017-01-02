@@ -1,0 +1,17 @@
+<xml>
+  <produced_on>2016-07-01</produced_on>
+  <room>
+    <number>123</number>
+  <location>
+    <corridor>A5</corridor>
+    <floor>1</floor>
+  </location>
+  </room>
+  <room>
+    <number>124</number>
+  <location>
+    <corridor>A5</corridor>
+    <floor>1</floor>
+  </location>
+  </room>
+</xml>
